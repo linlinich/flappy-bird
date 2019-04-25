@@ -18,3 +18,4 @@ def load_image(name, colorkey):
     if colorkey != 0:
         image.set_colorkey(colorkey)
     return image
+hhhh
